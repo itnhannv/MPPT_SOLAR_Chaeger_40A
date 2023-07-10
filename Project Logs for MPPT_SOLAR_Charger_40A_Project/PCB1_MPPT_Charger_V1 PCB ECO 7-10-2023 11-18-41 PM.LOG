@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=NetJ7_1 Pin=Q8-2
+Removed Pin From Net: NetName=NetC24_1 Pin=X2-1A
+Removed Pin From Net: NetName=NetC24_1 Pin=X2-1B
+Removed Member From Class: ClassName=SCH_MPPT_Charger_V1 Member=X2
+Added Component: Designator=X?(FUSE_3522-2)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Keystone Electronics'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "3522-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC24_1 Pin=Q8-3
+Added Pin To Net: NetName=NetJ7_1 Pin=X?-2A
+Added Pin To Net: NetName=NetJ7_1 Pin=X?-2B
+Added Pin To Net: NetName=NetQ8_2 Pin=Q8-2
+Added Pin To Net: NetName=NetQ8_2 Pin=X?-1A
+Added Pin To Net: NetName=NetQ8_2 Pin=X?-1B
+Added Net: Name=NetQ8_2
+Added Member To Class: ClassName=SCH_MPPT_Charger_V1 Member=Component X? 3522-2

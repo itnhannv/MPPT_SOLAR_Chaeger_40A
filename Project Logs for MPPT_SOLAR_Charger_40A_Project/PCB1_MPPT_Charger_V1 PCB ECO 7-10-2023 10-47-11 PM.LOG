@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Pin From Net: NetName=PV_IN Pin=C3-2
+Removed Pin From Net: NetName=PV_IN Pin=C6-1
+Removed Pin From Net: NetName=GND Pin=C6-2
+Removed Member From Class: ClassName=SCH_MPPT_Charger_V1 Member=C3
+Removed Member From Class: ClassName=SCH_MPPT_Charger_V1 Member=C6

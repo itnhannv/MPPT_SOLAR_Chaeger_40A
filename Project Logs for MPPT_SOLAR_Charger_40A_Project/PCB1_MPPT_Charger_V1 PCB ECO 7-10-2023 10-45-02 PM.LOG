@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=C27 Old Footprint=CP4/12 New Footprint=CP4/8.5
+Change Component Comment : Designator=C27 Old Comment=2200uF/63V New Comment=4700uF/50V
+Change component parameters: Designator = "C27" ("C27"); Footprint = "CP4/12"; UniqueID = "\AUZRREWB" ("\AUZRREWB")
+Change component parameters (AddParameter): Name = "Value"; Value = "4700uF/50V"; VariantName = "[No Variations]"

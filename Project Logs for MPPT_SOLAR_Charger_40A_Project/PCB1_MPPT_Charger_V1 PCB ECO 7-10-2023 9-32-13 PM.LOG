@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=ALERT Pin=R38-1
+Removed Pin From Net: NetName=ALERT Pin=U1-10
+Removed Pin From Net: NetName=ALERT Pin=U9-2
+Added Pin To Net: NetName=A0 Pin=J1-2
+Added Pin To Net: NetName=A0 Pin=U1-10
+Added Pin To Net: NetName=NetR38_1 Pin=R38-1
+Added Pin To Net: NetName=NetR38_1 Pin=U9-2
+Added Net: Name=NetR38_1
+Added Member To Class: ClassName=SCH_MPPT_Charger_V1 Member=Component Q2 C1815
+Added Member To Class: ClassName=SCH_MPPT_Charger_V1 Member=Component Q3 C1815
+Added Member To Class: ClassName=SCH_MPPT_Charger_V1 Member=Component Q4 C1815
+Added Member To Class: ClassName=SCH_MPPT_Charger_V1 Member=Component Q5 C1815
+Added Member To Class: ClassName=SCH_MPPT_Charger_V1 Member=Component Q9 C1815

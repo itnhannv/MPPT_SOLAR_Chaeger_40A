@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=C25 Old Footprint=CP1/2.5 New Footprint=CP4/8.5
+Change Component Footprint: Designator=C24 Old Footprint=CP4/12 New Footprint=CP4/8.5
+Change Component Comment : Designator=C25 Old Comment=100uF New Comment=4700uF/50V
+Change Component Comment : Designator=C24 Old Comment=2200uF/63V New Comment=4700uF/50V
+Change component parameters: Designator = "C24" ("C24"); Footprint = "CP4/12"; UniqueID = "\NAETEZYP" ("\NAETEZYP")
+Change component parameters (AddParameter): Name = "Value"; Value = "4700uF/50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C25" ("C25"); Footprint = "CP1/2.5"; UniqueID = "\UTULFOTQ" ("\UTULFOTQ")
+Change component parameters (AddParameter): Name = "Value"; Value = "4700uF/50V"; VariantName = "[No Variations]"
+Added Room: Name=SCH_MPPT_Charger_V1

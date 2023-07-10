@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=NetC24_1 Pin=C25-1
+Removed Pin From Net: NetName=NetC24_2 Pin=C25-2
+Removed Member From Class: ClassName=SCH_MPPT_Charger_V1 Member=C25
